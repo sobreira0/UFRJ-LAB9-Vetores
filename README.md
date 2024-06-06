@@ -2,7 +2,7 @@
 
 ## Atividade feita sobre vetores usando ponteiros (ainda não passados em sala, apenas para testar).
 
-# Conta com as seguintes funções:
+## Conta com as seguintes funções:
 
 - prodInterno -> Calcula o produto interno de dois vetores que é um escalar resultante da soma do produto entre as suas respectivas entradas
 
@@ -11,3 +11,4 @@
 - printVetor -> Printa as entradas do vetor
 
 - sortVetorBubble -> Ordena, em ordem crescente, um vetor, usando um algorítmo de BubbleSort
+
