@@ -1,6 +1,6 @@
 # Aula Programação de Computadores I da UFRJ
 
-## Atividade feita sobre vetores usando ponteiros (ainda não passados em sala, apenas para testar).
+## Atividade feita sobre vetores usando ponteiros e vetores.
 
 ## Conta com as seguintes funções:
 
