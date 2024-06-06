@@ -2,7 +2,7 @@
 
 ## Atividade feita sobre vetores usando ponteiros e vetores.
 
-## Conta com as seguintes funções:
+### funções:
 
 - prodInterno -> Calcula o produto interno de dois vetores que é um escalar resultante da soma do produto entre as suas respectivas entradas
 
